@@ -6,6 +6,30 @@ A 2D farming simulation game inspired by Stardew Valley, built with Phaser 3 and
 ![Phaser](https://img.shields.io/badge/Phaser-3.80.1-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue)
 
+## 🎮 [Play Now!](https://yoshiokaarthur2904.github.io/Clone/)
+
+**Try the game online** - No installation required! Click the link above to play directly in your browser.
+
+## 🚀 Quick Start
+
+Get the game running in 3 simple steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yoshiokaarthur2904/Clone.git
+cd Clone
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the game
+npm run dev
+```
+
+Then open your browser to `http://localhost:5173` and start playing! 🎮
+
+> **Prerequisites**: Make sure you have [Node.js](https://nodejs.org/) (v14+) installed.
+
 ## 🎮 Features
 
 ### Current Implementation
